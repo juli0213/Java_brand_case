@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Collection/Collection.iml" filepath="$PROJECT_DIR$/Collection/Collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/Net/Net.iml" filepath="$PROJECT_DIR$/Net/Net.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/dataStruct/dataStruct.iml" filepath="$PROJECT_DIR$/dataStruct/dataStruct.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_string/java_string.iml" filepath="$PROJECT_DIR$/java_string/java_string.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_test.iml" filepath="$PROJECT_DIR$/java_test.iml" />
